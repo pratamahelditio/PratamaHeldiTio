@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PratamaHeldiTio
-- 👀 I’m interested in front-end
+- 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning backend specifically golang
 - 💞️ I’m looking to collaborate with community
 - 📫 How to reach me pratamahelditio@gmail.com
